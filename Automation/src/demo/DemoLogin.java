@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 
 import com.actitime.pom.HomePage;
 import com.actitime.pom.LoginPage;
-
 public class DemoLogin {
 	@Test
 public void demo() throws InterruptedException {
