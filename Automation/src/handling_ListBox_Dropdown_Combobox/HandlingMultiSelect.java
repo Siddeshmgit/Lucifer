@@ -26,6 +26,6 @@ public static void main(String[] args) {
 	s.deselectByValue("m");
 	s.deselectByVisibleText("Hyderabad");
 	//To deselect all the options at a time we use deselectAll().
-	s.deselectAll()
+	s.deselectAll();
 	}
 }
